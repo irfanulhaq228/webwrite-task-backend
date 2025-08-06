@@ -94,8 +94,8 @@ Update the `.env` file:
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/task-management
-JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+MONGODB_URI=mongodb+srv://irfanulhaq228:personal@personal.mckn1ni.mongodb.net/task-management
+JWT_SECRET=irfanulhaq-secret-key-2025-2024
 NODE_ENV=development
 ```
 
